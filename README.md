@@ -1,23 +1,14 @@
 ## Efficient Python for Data Scientists ##
 
 Learn how to write efficient Python code as a data scientist.
-
-[![GitHub license](https://img.shields.io/github/license/youssefHosni/Efficient-Python-for-Data-Scientists.svg)](https://github.com/youssefHosni/BreadcrumbsEfficient-Python-for-Data-Scientists/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Efficient-Python-for-Data-Scientists.svg)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Efficient-Python-for-Data-Scientists.svg)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Efficient-Python-for-Data-Scientists.svg)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/network/)
-[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/stargazers/)
-
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
 
-
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/stargazers/)
 
 
 ## Efficient Python ##
