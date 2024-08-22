@@ -12,10 +12,17 @@ Learn how to write efficient Python code as a data scientist.
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/stargazers/)
 
-![alt_text](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/1_XNhMJunrlY_Xfei8D8sPeg.png)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
+
+
 
 
 ## Efficient Python ##
+![alt_text](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/1_XNhMJunrlY_Xfei8D8sPeg.png)
+
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
 |Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -31,6 +38,8 @@ Learn how to write efficient Python code as a data scientist.
 ## Efficient Pandas ##  
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
+|Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
 
 7. Best Practices To Use Pandas Efficiently As A Data Scientist [[Article](https://levelup.gitconnected.com/best-practices-to-use-pandas-efficiently-as-a-data-scientist-9198b3e7bb6d?sk=88e07bfb5fba1b3a208a1e7e01a5981c) | [Notebook](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists/blob/main/Best_Practices_To_Use_Pandas_Efficiently_As_A_Data_Scientist.ipynb)] | [Kaggle Notebook]()
 9. Stop Looping Through Pandas DataFrames & Do This Instead [[Article](https://levelup.gitconnected.com/stop-looping-through-pandas-dataframes-do-this-instead-ddcb6009cbc1?sk=a81ea280c77aeb28afdbdacbef380c43) | [Notebook](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Stop_Looping_Through_Pandas_DataFrames_%26_Do_This%C2%A0Instead.ipynb) ] | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/stop-looping-through-pandas-dataframes)
