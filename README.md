@@ -13,7 +13,6 @@ Learn how to write efficient Python code as a data scientist.
 
 
 ## Efficient Python ##
-![alt_text](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/1_XNhMJunrlY_Xfei8D8sPeg.png)
 
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
